@@ -150,7 +150,8 @@ A responsive hotel website focused on accommodation, services, bookings, and a p
 A browser-based salon booking system allowing customers to select services, stylists, dates and available appointment times.
 
 **Technologies:**
-`HTML` `CSS` `JavaScript` `LocalStorage` `EmailJS`
+`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `MySQL` `REST API` `LocalStorage` `EmailJS`
+
 
 ---
 
