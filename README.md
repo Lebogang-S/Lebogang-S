@@ -3,7 +3,7 @@
 ### Final-Year Diploma in Information Technology Student | Software Developer
 
 🎓 **Diploma in Information Technology — Vaal University of Technology (VUT)**
-💻 **Java | Python | JavaScript | PHP | MySQL | Oracle Database**
+💻 **Java | Python | JavaScript | PHP | MySQL | Oracle SQL & PL/SQL**
 📍 South Africa
 
 ---
@@ -12,9 +12,9 @@
 
 I am a **Final-Year Diploma in Information Technology student at Vaal University of Technology (VUT)** with a strong interest in software development, database engineering, web development, and artificial intelligence.
 
-I enjoy building practical software solutions that combine **clean code, database design, problem-solving, and user-focused functionality**.
+I enjoy building practical software solutions that combine **clean code, database design, problem-solving, transaction management, and user-focused functionality**.
 
-My current focus is developing my skills in **Java, Spring Boot, Python, JavaScript, MySQL, Oracle Database, REST APIs, and application development**, while building portfolio projects that demonstrate real-world software engineering and database management principles.
+My current focus is developing my skills in **Java, Spring Boot, Python, JavaScript, MySQL, Oracle Database, PL/SQL, REST APIs, and application development**, while building portfolio projects that demonstrate real-world software engineering and database management principles.
 
 I am continuously learning and improving my skills through academic projects, personal projects, and hands-on development.
 
@@ -57,22 +57,25 @@ I am continuously learning and improving my skills through academic projects, pe
 
 ### Databases & Database Engineering
 
-* **Oracle Database**
+* **Oracle Database 21c**
+* **Oracle SQL**
+* **PL/SQL**
 * **MySQL**
 * **SQLite**
 * **Relational Database Design**
-* **Entity Relationship Diagrams (ERD)**
+* **Entity Relationship Diagrams (ERDs)**
 * **Database Modelling**
-* **SQL Queries**
-* **Stored Procedures**
-* **Functions**
-* **Triggers**
-* **Views**
-* **Transactions**
-* **Indexes**
+* **Primary & Foreign Keys**
+* **Constraints & Referential Integrity**
 * **Database Normalisation**
-* **Data Integrity & Constraints**
-* **Database Reporting**
+* **Stored Procedures & Functions**
+* **Packages & Triggers**
+* **Views & Indexes**
+* **Transactions & Rollback**
+* **Database Auditing**
+* **SQL Joins & Common Table Expressions**
+* **Analytic Functions**
+* **Database Testing & Reporting**
 
 ---
 
@@ -102,55 +105,68 @@ My experience and areas of development include:
 
 ---
 
-## 🗄️ Database Development & Oracle SQL
+## 🗄️ Oracle Database & PL/SQL Development
 
-I am developing practical database engineering skills through relational database projects using **Oracle Database, MySQL, and SQL**.
+I am developing practical database engineering skills using **Oracle Database 21c, Oracle SQL, and PL/SQL**, with a focus on relational database design, business rules, financial transactions, data integrity, and database automation.
 
 My database development interests include:
 
 * Relational database architecture
 * Entity Relationship Diagrams (ERDs)
 * Database schema design
-* Primary and foreign keys
-* Referential integrity
-* Database normalisation
-* SQL queries and joins
-* Aggregate functions and subqueries
-* Stored procedures and functions
-* Database triggers and views
-* Transaction management
-* Indexing and query optimisation
-* Business reporting
-* Data integrity and validation
+* Primary keys, foreign keys, and constraints
+* SQL queries, joins, and subqueries
+* PL/SQL procedures and functions
+* Packages and database triggers
+* Transaction management and rollback
+* Data validation and integrity
+* Automated audit logging
+* Fraud monitoring and reporting
+* Database testing and debugging
+* Common table expressions and analytic functions
 
-### Current Database Project
+### 🏦 Current Database Project
 
-**Smart Retail DB — Retail Sales & Inventory Management Database**
+**OracleBank — Banking & Financial Transaction Management System**
 
-A database solution designed to manage retail operations, including customers, employees, suppliers, products, stores, inventory, sales, purchases, and stock movements.
+OracleBank is a relational database project built with **Oracle Database 21c and PL/SQL**. It demonstrates how database technologies can support core banking operations, including customer management, bank accounts, financial transactions, loan processing, fraud monitoring, audit logging, transaction reversals, and management reporting.
 
-The project focuses on designing a structured relational database that supports inventory control, transaction processing, reporting, and retail business operations.
+The project focuses on database design, data integrity, transaction control, reusable PL/SQL programs, automated auditing, and testing.
 
-Key areas include:
+**Key Features:**
 
-* Relational database schema design
-* Entity Relationship Diagram (ERD)
-* Customer and employee management
-* Product and supplier management
-* Store inventory management
-* Sales and purchase records
-* Stock movement tracking
-* SQL queries and business reports
-* Stored procedures and functions
-* Database triggers and views
-* Transactions and data integrity
-* Indexes and database performance
+* Customer and bank account management
+* Cheque, savings, and business accounts
+* Deposits, withdrawals, and transfers
+* Transaction references and status tracking
+* Account balance validation
+* Loan applications, approvals, and repayments
+* Outstanding loan balance tracking
+* High-value transaction detection
+* Rapid repeated transaction detection
+* Fraud alert management
+* Account balance and status auditing
+* Transaction reversal processing
+* Customer account summaries
+* Account statements and loan portfolio reports
+* Monthly transaction reports
+* Database integrity and business rule validation
+* SQL test scripts for banking operations and PL/SQL components
 
 **Technologies:**
 
-`Oracle Database` `SQL` `PL/SQL` `Relational Database Design` `ERD` `Database Modelling`
+`Oracle Database 21c` `Oracle SQL` `PL/SQL` `Oracle SQL Developer` `Git` `GitHub`
 
-*The Oracle database project is focused on developing and demonstrating practical database engineering skills.*
+**Database Components:**
+
+* **Tables:** CUSTOMERS, ACCOUNTS, TRANSACTIONS, LOANS, LOAN_REPAYMENTS, FRAUD_ALERTS, AUDIT_LOGS, TRANSACTION_REVERSALS
+* **Packages:** BANKING_PKG, LOAN_MANAGEMENT_PKG, BANKING_REPORTS_PKG
+* **Procedures:** Fraud detection, fraud alert management, and transaction reversals
+* **Triggers:** Account auditing, transaction integrity, and account status protection
+* **Reporting:** SQL joins, aggregations, common table expressions, and analytic functions
+* **Testing:** Banking operations, loan processing, fraud monitoring, auditing, and transaction integrity
+
+The project uses fictional demonstration records and is intended for educational and portfolio purposes, rather than production banking.
 
 ---
 
@@ -174,13 +190,16 @@ Areas of interest include:
 
 **SmartFuel AI — AI-Powered Sales Demand Prediction & Intelligent Stock Management System**
 
-An AI-based solution designed for a filling station and convenience store environment to assist with:
+An AI-based solution designed for a filling station and convenience store environment to assist with sales forecasting, stock management, data analysis, and business decision-making.
+
+**Key Areas:**
 
 * Sales demand prediction
-* Stock management
-* Data analysis
-* Business decision-making
+* Intelligent stock management
+* Data cleaning and analysis
+* Predictive modelling
 * Interactive dashboards
+* Business reporting
 
 **Technologies:**
 
@@ -188,7 +207,7 @@ An AI-based solution designed for a filling station and convenience store enviro
 
 ---
 
-## 🌐 Web Projects
+## 🌐 Web Development Projects
 
 ### 🏨 LuxeStay — Hotel Management Website
 
@@ -197,8 +216,6 @@ A responsive hotel website focused on accommodation, services, bookings, and a p
 **Technologies:**
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
----
 
 ### 💇 StyleBook — Salon Appointment System
 
@@ -210,7 +227,9 @@ A salon appointment management application that allows customers to select servi
 
 ---
 
-### 📚 Library Management System
+## 📚 Java Application Development
+
+### Library Management System
 
 A terminal-based Java application designed to demonstrate structured Java development and database management practices.
 
@@ -249,6 +268,8 @@ I am developing practical knowledge of:
 * **Layered Architecture**
 * **Database-Driven Applications**
 * **Authentication & Authorization**
+* **Transaction Management**
+* **Database Integrity**
 
 ---
 
@@ -261,10 +282,12 @@ I am building experience with:
 * **Unit Testing**
 * **Integration Testing**
 * **API Testing**
+* **SQL Testing**
+* **PL/SQL Testing**
 * **Test-Driven Development Principles**
 * **Input Validation**
 * **Error Handling**
-* **Database Integrity Testing**
+* **Transaction Integrity Testing**
 
 ---
 
@@ -281,6 +304,8 @@ My projects incorporate practical implementation and learning around:
 * JWT authentication
 * API security fundamentals
 * Database constraints and data integrity
+* Transaction validation
+* Audit logging
 
 ---
 
@@ -289,13 +314,15 @@ My projects incorporate practical implementation and learning around:
 * **NetBeans**
 * **Visual Studio Code**
 * **IntelliJ IDEA**
+* **Oracle SQL Developer**
+* **Oracle Database 21c**
+* **MySQL**
+* **XAMPP**
 * **Git**
 * **GitHub**
 * **Maven**
-* **MySQL**
-* **Oracle Database**
-* **SQL Developer**
-* **XAMPP**
+* **JUnit 5**
+* **Mockito**
 * **Swagger / OpenAPI**
 * **Streamlit**
 * **draw.io**
@@ -353,13 +380,13 @@ I am particularly interested in opportunities where I can learn from experienced
 
 ## 📂 Featured Projects
 
-| Project                      | Technologies                                  | Focus                     |
-| ---------------------------- | --------------------------------------------- | ------------------------- |
-| 📚 Library Management System | Java, JDBC, MySQL, Maven                      | OOP & Backend Development |
-| 🗄️ Smart Retail DB          | Oracle Database, SQL, PL/SQL                  | Database Engineering      |
-| 🤖 SmartFuel AI              | Python, AI, Streamlit                         | Artificial Intelligence   |
-| 🏨 LuxeStay                  | PHP, JavaScript, MySQL                        | Web Development           |
-| 💇 StyleBook                 | JavaScript, Java, Spring Boot, MySQL, EmailJS | Full-Stack Development    |
+| Project                      | Technologies                                  | Focus                                     |
+| ---------------------------- | --------------------------------------------- | ----------------------------------------- |
+| 🏦 OracleBank                | Oracle Database 21c, SQL, PL/SQL              | Banking Database & Financial Transactions |
+| 📚 Library Management System | Java, JDBC, MySQL, Maven                      | OOP & Backend Development                 |
+| 🤖 SmartFuel AI              | Python, AI, Streamlit                         | Artificial Intelligence                   |
+| 🏨 LuxeStay                  | PHP, JavaScript, MySQL                        | Web Development                           |
+| 💇 StyleBook                 | JavaScript, Java, Spring Boot, MySQL, EmailJS | Full-Stack Development                    |
 
 ---
 
