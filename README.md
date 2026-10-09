@@ -3,18 +3,18 @@
 ### Final-Year Diploma in Information Technology Student | Software Developer
 
 🎓 **Diploma in Information Technology — Vaal University of Technology (VUT)**
-💻 **Java | Python | JavaScript | PHP | MySQL**
+💻 **Java | Python | JavaScript | PHP | MySQL | Oracle Database**
 📍 South Africa
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Final-Year Diploma in Information Technology student at Vaal University of Technology (VUT)** with a strong interest in software development, databases, web development, and artificial intelligence.
+I am a **Final-Year Diploma in Information Technology student at Vaal University of Technology (VUT)** with a strong interest in software development, database engineering, web development, and artificial intelligence.
 
 I enjoy building practical software solutions that combine **clean code, database design, problem-solving, and user-focused functionality**.
 
-My current focus is developing my skills in **Java, Python, JavaScript, MySQL, REST APIs, and application development**, while building portfolio projects that demonstrate real-world software engineering principles.
+My current focus is developing my skills in **Java, Spring Boot, Python, JavaScript, MySQL, Oracle Database, REST APIs, and application development**, while building portfolio projects that demonstrate real-world software engineering and database management principles.
 
 I am continuously learning and improving my skills through academic projects, personal projects, and hands-on development.
 
@@ -34,8 +34,6 @@ I am continuously learning and improving my skills through academic projects, pe
 * **LocalStorage**
 * **EmailJS**
 
----
-
 ### Back-End Development
 
 * **Java**
@@ -48,8 +46,6 @@ I am continuously learning and improving my skills through academic projects, pe
 * **CRUD Applications**
 * **MVC Architecture**
 
----
-
 ### Programming Languages
 
 * **Java**
@@ -59,14 +55,14 @@ I am continuously learning and improving my skills through academic projects, pe
 * **SQL**
 * **HTML/CSS**
 
----
+### Databases & Database Engineering
 
-### Databases
-
+* **Oracle Database**
 * **MySQL**
 * **SQLite**
 * **Relational Database Design**
-* **ERD & Database Modelling**
+* **Entity Relationship Diagrams (ERD)**
+* **Database Modelling**
 * **SQL Queries**
 * **Stored Procedures**
 * **Functions**
@@ -75,6 +71,8 @@ I am continuously learning and improving my skills through academic projects, pe
 * **Transactions**
 * **Indexes**
 * **Database Normalisation**
+* **Data Integrity & Constraints**
+* **Database Reporting**
 
 ---
 
@@ -82,7 +80,7 @@ I am continuously learning and improving my skills through academic projects, pe
 
 I have a particular interest in **Java application development** and use Java to build structured, database-driven applications.
 
-My experience includes:
+My experience and areas of development include:
 
 * Object-Oriented Programming (OOP)
 * Collections Framework
@@ -98,9 +96,61 @@ My experience includes:
 * Password Hashing
 * Unit Testing
 * Maven
-* JUnit
+* JUnit 5
 * Mockito
 * Git & GitHub
+
+---
+
+## 🗄️ Database Development & Oracle SQL
+
+I am developing practical database engineering skills through relational database projects using **Oracle Database, MySQL, and SQL**.
+
+My database development interests include:
+
+* Relational database architecture
+* Entity Relationship Diagrams (ERDs)
+* Database schema design
+* Primary and foreign keys
+* Referential integrity
+* Database normalisation
+* SQL queries and joins
+* Aggregate functions and subqueries
+* Stored procedures and functions
+* Database triggers and views
+* Transaction management
+* Indexing and query optimisation
+* Business reporting
+* Data integrity and validation
+
+### Current Database Project
+
+**Smart Retail DB — Retail Sales & Inventory Management Database**
+
+A database solution designed to manage retail operations, including customers, employees, suppliers, products, stores, inventory, sales, purchases, and stock movements.
+
+The project focuses on designing a structured relational database that supports inventory control, transaction processing, reporting, and retail business operations.
+
+Key areas include:
+
+* Relational database schema design
+* Entity Relationship Diagram (ERD)
+* Customer and employee management
+* Product and supplier management
+* Store inventory management
+* Sales and purchase records
+* Stock movement tracking
+* SQL queries and business reports
+* Stored procedures and functions
+* Database triggers and views
+* Transactions and data integrity
+* Indexes and database performance
+
+**Technologies:**
+
+`Oracle Database` `SQL` `PL/SQL` `Relational Database Design` `ERD` `Database Modelling`
+
+*The Oracle database project is focused on developing and demonstrating practical database engineering skills.*
 
 ---
 
@@ -114,7 +164,7 @@ Areas of interest include:
 * Data Cleaning & Analysis
 * Machine Learning
 * Predictive Modelling
-* AI-powered applications
+* AI-Powered Applications
 * Time-Series Prediction
 * SQLite
 * Streamlit
@@ -132,48 +182,54 @@ An AI-based solution designed for a filling station and convenience store enviro
 * Business decision-making
 * Interactive dashboards
 
+**Technologies:**
+
+`Python` `Machine Learning` `SQLite` `Streamlit` `Data Analysis`
+
 ---
 
 ## 🌐 Web Projects
 
-### 🏨 LuxeStay Hotel Management Website
+### 🏨 LuxeStay — Hotel Management Website
 
 A responsive hotel website focused on accommodation, services, bookings, and a professional hospitality experience.
 
 **Technologies:**
+
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 ---
 
 ### 💇 StyleBook — Salon Appointment System
 
-A browser-based salon booking system allowing customers to select services, stylists, dates and available appointment times.
+A salon appointment management application that allows customers to select services, stylists, dates, and available appointment times. The project incorporates booking management and customer email notifications.
 
 **Technologies:**
-`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `MySQL` `REST API` `LocalStorage` `EmailJS`
 
+`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `MySQL` `REST API` `LocalStorage` `EmailJS`
 
 ---
 
 ### 📚 Library Management System
 
-A terminal-based Java application designed to demonstrate professional Java and database development practices.
+A terminal-based Java application designed to demonstrate structured Java development and database management practices.
 
-Features include:
+**Key Features:**
 
 * User authentication
 * Admin and standard-user roles
 * Book management
 * Loan management
 * Database persistence
-* Validation
+* Input validation
 * Custom exceptions
-* DAO/service architecture
+* DAO and service-layer architecture
 * Password hashing
 * Unit testing
 
 **Technologies:**
-`Java` `JDBC` `MySQL` `Maven` `JUnit` `Mockito`
+
+`Java` `JDBC` `MySQL` `Maven` `JUnit 5` `Mockito`
 
 ---
 
@@ -183,7 +239,7 @@ I am developing practical knowledge of:
 
 * **Object-Oriented Programming**
 * **SOLID Principles**
-* **MVC**
+* **MVC Architecture**
 * **DAO Pattern**
 * **Service Layer Architecture**
 * **Repository Pattern**
@@ -192,11 +248,11 @@ I am developing practical knowledge of:
 * **REST API Design**
 * **Layered Architecture**
 * **Database-Driven Applications**
-* **Authentication & Authorisation**
+* **Authentication & Authorization**
 
 ---
 
-## 🧪 Testing
+## 🧪 Testing & Quality Assurance
 
 I am building experience with:
 
@@ -205,7 +261,26 @@ I am building experience with:
 * **Unit Testing**
 * **Integration Testing**
 * **API Testing**
-* **Test-Driven Development principles**
+* **Test-Driven Development Principles**
+* **Input Validation**
+* **Error Handling**
+* **Database Integrity Testing**
+
+---
+
+## 🔐 Security
+
+My projects incorporate practical implementation and learning around:
+
+* Password hashing
+* Authentication
+* Role-Based Access Control (RBAC)
+* Input validation
+* Prepared SQL statements
+* Secure database access
+* JWT authentication
+* API security fundamentals
+* Database constraints and data integrity
 
 ---
 
@@ -218,6 +293,8 @@ I am building experience with:
 * **GitHub**
 * **Maven**
 * **MySQL**
+* **Oracle Database**
+* **SQL Developer**
 * **XAMPP**
 * **Swagger / OpenAPI**
 * **Streamlit**
@@ -225,24 +302,9 @@ I am building experience with:
 
 ---
 
-## 🔐 Security
-
-My projects include practical implementation and learning around:
-
-* Password hashing
-* Authentication
-* Role-based access control
-* Input validation
-* Prepared SQL statements
-* Secure database access
-* JWT authentication
-* API security fundamentals
-
----
-
 ## 📚 Education
 
-### Vaal University of Technology
+### Vaal University of Technology (VUT)
 
 **Diploma in Information Technology**
 
@@ -270,8 +332,9 @@ I am currently focusing on improving my skills in:
 * **Spring Boot**
 * **REST API Development**
 * **Software Architecture**
-* **Database Design**
-* **Python & AI**
+* **Oracle SQL & PL/SQL**
+* **Database Design & Optimisation**
+* **Python & Artificial Intelligence**
 * **Machine Learning**
 * **Full-Stack Development**
 * **Testing & Code Quality**
@@ -282,20 +345,21 @@ I am currently focusing on improving my skills in:
 
 ## 🎯 Career Goal
 
-My goal is to become a **professional Software Developer** and continue developing strong skills in backend development, full-stack applications, databases, and artificial intelligence.
+My goal is to become a **professional Software Developer** and continue developing strong skills in backend development, full-stack applications, database engineering, and artificial intelligence.
 
-I am particularly interested in opportunities where I can **learn from experienced developers, contribute to real-world software projects, and grow into a strong software engineer.**
+I am particularly interested in opportunities where I can learn from experienced developers, contribute to real-world software projects, and grow into a strong software engineer.
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                      | Technologies           | Focus                   |
-| ---------------------------- | ---------------------- | ----------------------- |
-| 📚 Library Management System | Java, JDBC, MySQL      | OOP & Backend           |
-| 🤖 SmartFuel AI              | Python, AI, Streamlit  | Artificial Intelligence |
-| 🏨 LuxeStay                  | PHP, JavaScript, MySQL | Web Development         |
-| 💇 StyleBook                 | JavaScript, EmailJS    | Web Application         |
+| Project                      | Technologies                                  | Focus                     |
+| ---------------------------- | --------------------------------------------- | ------------------------- |
+| 📚 Library Management System | Java, JDBC, MySQL, Maven                      | OOP & Backend Development |
+| 🗄️ Smart Retail DB          | Oracle Database, SQL, PL/SQL                  | Database Engineering      |
+| 🤖 SmartFuel AI              | Python, AI, Streamlit                         | Artificial Intelligence   |
+| 🏨 LuxeStay                  | PHP, JavaScript, MySQL                        | Web Development           |
+| 💇 StyleBook                 | JavaScript, Java, Spring Boot, MySQL, EmailJS | Full-Stack Development    |
 
 ---
 
@@ -305,20 +369,20 @@ I am open to:
 
 * Graduate opportunities
 * Junior Software Developer positions
-* Internships
-* Software Development opportunities
+* Software Development internships
+* Backend and Full-Stack Development opportunities
+* Database Development opportunities
 * Collaboration on interesting projects
 * Open-source projects
 * Learning opportunities
 
-**📍 South Africa**
+📍 **South Africa**
 
-**💼 LinkedIn:** Coming Soon
-**🐙 GitHub:** [Lebogang-S](https://github.com/Lebogang-S)
+💼 **LinkedIn:** Coming Soon
+🐙 **GitHub:** [Lebogang-S](https://github.com/Lebogang-S)
 
 ---
 
 ### 💡 "Build. Learn. Improve. Repeat."
 
 Thanks for visiting my GitHub profile! 🚀
-
